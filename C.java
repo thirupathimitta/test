@@ -3,5 +3,6 @@ class C{
 	System.out.println("hi");
 //customer logic -C
 //customer bio data- feature1 branch changes =c6
+//addded some new features after clone
  }
 }
